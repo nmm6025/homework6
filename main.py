@@ -16,7 +16,7 @@ def run():
 def getGradePoint(grade):
   if grade == "A":
     return 4.0
-  elif grade == "A-":
+  elif grade == "A-": 
     return 3.67
   elif grade == "B+":
     return 3.33
